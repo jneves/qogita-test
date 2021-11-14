@@ -1,0 +1,12 @@
+django
+djangorestframework
+django_extensions
+django_filter
+
+# For models
+pycountry
+google-i18n-address
+
+# For swagger/openapi
+pyyaml
+uritemplate

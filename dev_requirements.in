@@ -1,0 +1,5 @@
+pip-tools
+flake8
+black
+bandit
+isort
